@@ -154,11 +154,4 @@ mnist-ann-digit-recognition/
 
 ---
 
-## Copyright
 
-© 2026 Sushant Tiwari. All Rights Reserved.
-
-This project, including all source code, notebooks, and documentation, is the
-intellectual property of Sushant Tiwari. See [LICENSE](LICENSE) for full terms.
-The MNIST dataset itself is sourced from Kaggle and remains subject to its own
-license/terms.
