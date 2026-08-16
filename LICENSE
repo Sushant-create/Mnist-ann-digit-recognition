@@ -1,0 +1,27 @@
+Copyright (c) 2026 Sushant Tiwari
+All Rights Reserved.
+
+This project, including but not limited to all source code, notebooks,
+documentation, trained model artifacts, and generated outputs contained
+within this repository ("the Work"), is the sole intellectual property
+of Sushant Tiwari.
+
+No part of this Work may be reproduced, distributed, modified, or
+transmitted in any form or by any means — including copying, academic
+submission under another name, commercial use, or publication — without
+prior written permission from the copyright holder, except for personal,
+non-commercial reference use.
+
+The Work is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall
+the author be liable for any claim, damages, or other liability arising
+from, out of, or in connection with the Work or the use or other dealings
+in the Work.
+
+Dataset Notice:
+This project uses the MNIST Handwritten Digits Dataset (CSV format),
+sourced from Kaggle (oddrationale/mnist-in-csv), which is distributed
+under its own separate license/terms by its respective owner(s). No
+ownership over the dataset itself is claimed by the copyright holder
+of this repository.

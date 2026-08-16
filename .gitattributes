@@ -1,0 +1,19 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Force Python files to LF
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Treat notebooks as text for diffing (readable diffs)
+*.ipynb diff=jupyternotebook
+
+# Binary files that should never be modified by line-ending normalization
+*.h5 binary
+*.keras binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.csv binary
